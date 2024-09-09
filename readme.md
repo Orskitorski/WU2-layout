@@ -33,3 +33,6 @@ Trots de många fördelarna finns det också utmaningar. Allergiker kan uppleva 
 ---
 
 Hoppas detta hjälper! Finns det något mer du vill lägga till eller ändra?
+
+
+KOM IHÅG ATT GÖRA EN ABOUT PAGE
