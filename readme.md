@@ -4,10 +4,6 @@ Prompts:
 
 "Skriv en text till en hemsida om Umeås blommande björkar under försommaren, vad detta betyder, kan leda till och vilka konsekvenser det får. Dela upp texten i rubriker och underrubriker."
 
-Självklart! Här är ett förslag på text för en hemsida om Umeås blommande björkar under försommaren:
-
----
-
 ## Umeås Blommande Björkar under Försommaren
 
 ### En Naturens Skönhet
@@ -29,10 +25,3 @@ Den blommande säsongen har också positiva ekonomiska effekter. Turismen ökar,
 ### Utmaningar och Framtida Perspektiv
 
 Trots de många fördelarna finns det också utmaningar. Allergiker kan uppleva besvär under blomningen, och det är viktigt att staden erbjuder stöd och information för att hjälpa dem. Framöver är det också viktigt att bevara och skydda björkbeståndet för att säkerställa att framtida generationer kan njuta av denna naturliga skönhet.
-
----
-
-Hoppas detta hjälper! Finns det något mer du vill lägga till eller ändra?
-
-
-KOM IHÅG ATT GÖRA EN ABOUT PAGE
