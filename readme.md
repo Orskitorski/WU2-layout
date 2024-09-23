@@ -40,3 +40,5 @@ Texten överlappar och är för stor i heron vid lägre upplösningar, Jens sa a
 Laddningstid: alltid under en sekund
 
 Fungerar i Edge, Opera GX och Chrome
+
+Hemsidan ser inte så fin ut på mobilen men jag har inte tid att fixa det
