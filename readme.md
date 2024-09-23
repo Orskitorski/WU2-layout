@@ -35,3 +35,8 @@ Validator.nu: Inga fel
 
 Jigsaw: 3 fel på grund av css-nesting i min "stylesheet.css" men Jens sa att man inte skulle bry sig. 2 fel i "reset.css" för att det finns webbläsar-specifika saker som reseten hanterar som chrome försöker skippa och säger att det är fel.
 
+Texten överlappar och är för stor i heron vid lägre upplösningar, Jens sa att det var svårt att fixa :/
+
+Laddningstid: alltid under en sekund
+
+Fungerar i Edge, Opera GX och Chrome
