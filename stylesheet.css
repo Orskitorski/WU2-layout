@@ -10,7 +10,7 @@ nav {
     padding: 0.5rem;
     background-color: rgb(15, 224, 144);
     font-size: 1.4rem;
-    color: white;
+    color: rgb(28, 28, 28);
 
     ul {
         list-style: none;
@@ -28,6 +28,7 @@ nav {
 .hero {
     display: grid;
     grid-template-areas: "stack";
+    background-color: darkgreen;
 
     > * {
         grid-area: stack;
@@ -71,5 +72,5 @@ footer {
     width: 100%;
     padding: 1rem;
     background-color: rgb(15, 224, 144);
-    color: white;
+    color: rgb(28, 28, 28);
 }

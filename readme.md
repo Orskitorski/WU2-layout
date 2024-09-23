@@ -25,3 +25,13 @@ Den blommande säsongen har också positiva ekonomiska effekter. Turismen ökar,
 ### Utmaningar och Framtida Perspektiv
 
 Trots de många fördelarna finns det också utmaningar. Allergiker kan uppleva besvär under blomningen, och det är viktigt att staden erbjuder stöd och information för att hjälpa dem. Framöver är det också viktigt att bevara och skydda björkbeståndet för att säkerställa att framtida generationer kan njuta av denna naturliga skönhet.
+
+
+### Dokumentation:
+
+Wave: Kontrastfel mellan vit text och ljusgröna element
+
+Validator.nu: Inga fel
+
+Jigsaw: 3 fel på grund av css-nesting i min "stylesheet.css" men Jens sa att man inte skulle bry sig. 2 fel i "reset.css" för att det finns webbläsar-specifika saker som reseten hanterar som chrome försöker skippa och säger att det är fel.
+
